@@ -33,3 +33,6 @@
 
 # Undo files
 *.un~
+
+# Swap files
+.*.swp

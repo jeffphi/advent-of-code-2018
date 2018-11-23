@@ -3,6 +3,13 @@ Using c++ setup from:
     https://arachnoid.com/cpptutor/setup_unix.html
 
 Added the build script to /usr/local/bin
+---
+Actually, maybe makefiles will be a better way to go, especially
+if I'm going to carve out some common stuff to shared libraries.
+https://www.cs.bu.edu/teaching/cpp/writing-makefiles/
+
+Also, general thoughts on how to strucutre the project(s):
+https://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/
 
 cpp referecne source:
 http://www.cplusplus.com/reference/ostream/ostream/
