@@ -11,9 +11,13 @@ https://www.cs.bu.edu/teaching/cpp/writing-makefiles/
 Also, general thoughts on how to strucutre the project(s):
 https://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/
 
+Making libraries in C++:
+https://www.oreilly.com/library/view/c-cookbook/0596007612/ch01s17.html
+https://renenyffenegger.ch/notes/development/languages/C-C-plus-plus/GCC/create-libraries/index
+
 cpp referecne source:
 http://www.cplusplus.com/reference/ostream/ostream/
 
 Random notes:
 https://clang.llvm.org/index.html
-
+https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html

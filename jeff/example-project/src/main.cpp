@@ -2,8 +2,11 @@
 
 using namespace std;
 
+int Foo();
+
 int main()
 {
 	cout << "Hello World!" << endl;
-	return 0;
+    cout << "Jeff here..." << endl;
+    return Foo();
 }
