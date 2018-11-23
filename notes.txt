@@ -1,0 +1,12 @@
+Using c++ setup from: 
+    https://developers.google.com/edu/c++/getting-started
+    https://arachnoid.com/cpptutor/setup_unix.html
+
+Added the build script to /usr/local/bin
+
+cpp referecne source:
+http://www.cplusplus.com/reference/ostream/ostream/
+
+Random notes:
+https://clang.llvm.org/index.html
+
