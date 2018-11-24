@@ -38,4 +38,4 @@
 .*.swp
 
 # bin directories
-**/bin
+bin/
