@@ -3,7 +3,7 @@ Using c++ setup from:
     https://arachnoid.com/cpptutor/setup_unix.html
 
 Added the build script to /usr/local/bin
----
+
 Actually, maybe makefiles will be a better way to go, especially
 if I'm going to carve out some common stuff to shared libraries.
 https://www.cs.bu.edu/teaching/cpp/writing-makefiles/
@@ -15,9 +15,18 @@ Making libraries in C++:
 https://www.oreilly.com/library/view/c-cookbook/0596007612/ch01s17.html
 https://renenyffenegger.ch/notes/development/languages/C-C-plus-plus/GCC/create-libraries/index
 
-cpp referecne source:
+A C++ reference:
 http://www.cplusplus.com/reference/ostream/ostream/
 
-Random notes:
+STL Containers review:
+https://www.cs.helsinki.fi/u/tpkarkka/alglib/k06/lectures/containers.html
+
+BOOST Libraries:
+https://theboostcpplibraries.com/
+
+A fine C++ REPL:
+http://cpp.sh/
+
+Other random notes:
 https://clang.llvm.org/index.html
 https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html

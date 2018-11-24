@@ -36,3 +36,6 @@
 
 # Swap files
 .*.swp
+
+# bin directories
+**/bin
