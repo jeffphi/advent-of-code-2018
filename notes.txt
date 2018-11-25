@@ -18,6 +18,9 @@ https://renenyffenegger.ch/notes/development/languages/C-C-plus-plus/GCC/create-
 A C++ reference:
 http://www.cplusplus.com/reference/ostream/ostream/
 
+Core guidelines:
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-gsl
+
 STL Containers review:
 https://www.cs.helsinki.fi/u/tpkarkka/alglib/k06/lectures/containers.html
 
