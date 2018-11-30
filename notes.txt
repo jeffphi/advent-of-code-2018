@@ -37,3 +37,6 @@ Other random notes:
 https://clang.llvm.org/index.html
 https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html
 https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+
+Rabbit Hole:
+Replacing Make with Ninja: https://jpospisil.com/2014/03/16/replacing-make-with-ninja.html
