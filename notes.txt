@@ -8,8 +8,11 @@ Actually, maybe makefiles will be a better way to go, especially
 if I'm going to carve out some common stuff to shared libraries.
 https://www.cs.bu.edu/teaching/cpp/writing-makefiles/
 
-Also, general thoughts on how to strucutre the project(s):
+Also, general thoughts on how to structure the project(s):
 https://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/
+
+I haven't used C++ since my time as a baby dev back at MSFT around 2001, so maybe a linter will be useful:
+http://clang.llvm.org/extra/clang-tidy/
 
 Making libraries in C++:
 https://www.oreilly.com/library/view/c-cookbook/0596007612/ch01s17.html
