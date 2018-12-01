@@ -1,0 +1,9 @@
+Jeff's AoC 2018 Diary
+-----
+I'll just use this to keep notes on my experiences/thoughs while doing AoC 2018. I should probalby move this to markdown! 
+
+Day 1:
+Easy enough, really just about making sure I can write and run C++ and read data from a file.
+For part 2, I simple wanted to use a hashtable. The STL map seems like the obvious choice, though seems klunky in practice. I'll assume that's becasue it's C++ :P
+I need to refactor how I strucutre my daily projects. Rather than separate folders for part-1 and part-2, I want a single src folder. I'll need to refactor the Makefile to build the two separate binaries (or possibly use a single program, though that likely won't work well becuase the part-2 solution often involves modifying the part-1).
+Also, I'm doing this all in vim to try and exercise those muscles a bit. 
