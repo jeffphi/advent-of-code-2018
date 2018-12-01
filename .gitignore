@@ -30,6 +30,8 @@
 *.exe
 *.out
 *.app
+part-1
+part-2
 
 # Undo files
 *.un~
@@ -39,3 +41,7 @@
 
 # bin directories
 bin/
+
+# symbols directories
+*.dSYM/
+

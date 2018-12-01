@@ -33,6 +33,9 @@ https://theboostcpplibraries.com/
 A fine C++ REPL:
 http://cpp.sh/
 
+Debugging:
+https://lldb.llvm.org/tutorial.html
+
 Other random notes:
 https://clang.llvm.org/index.html
 https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html
