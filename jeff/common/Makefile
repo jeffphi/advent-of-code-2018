@@ -6,7 +6,7 @@ CC := g++ # This is the main compiler
 # CC := clang --analyze # and comment out the linker last line for sanity
 SRCDIR := src
 BUILDDIR := build
-TARGET := lib/example.a
+TARGET := lib/jefflib.a
  
 SRCEXT := cpp
 SOURCES := $(shell find $(SRCDIR) -type f -name *.$(SRCEXT))

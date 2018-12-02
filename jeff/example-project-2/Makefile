@@ -7,15 +7,15 @@ CC := g++ # This is the main compiler
  
 CFLAGS := -g  -Wall
 # LIB := -pthread -lmongoclient -L lib -lboost_thread-mt -lboost_filesystem-mt -lboost_system-mt
-INC := -I include
+INC := -I ../common/include
 
 all: part-1 part-2
 
 part-1: part-1.cpp
-	g++ $(CFLAGS) -o part-1 part-1.cpp ../common/lib/example.a
+	g++ $(CFLAGS) $(INC) -o part-1 part-1.cpp ../common/lib/jefflib.a
 
 part-2: part-2.cpp
-	g++ $(CFLAGS) -o part-2 part-2.cpp ../common/lib/example.a
+	g++ $(CFLAGS) $(INC) -o part-2 part-2.cpp ../common/lib/jefflib.a
 
 clean:
 	rm -rfv *.o *.dSYM part-1 part-2
