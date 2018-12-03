@@ -45,3 +45,5 @@ bin/
 # symbols directories
 *.dSYM/
 
+# Mac crap
+.DS_STORE
