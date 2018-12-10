@@ -59,8 +59,9 @@ int playGame(int numPlayers, int numMarbles)
             int points = marble;
             
             // Score -7th & remove
-            int deletionIndex = (currentMarble -7) % marbles.size();
-            deletionIndex = abs(deletionIndex);
+            //int deletionIndex = (currentMarble -7) % marbles.size();
+            //deletionIndex = abs(deletionIndex);
+            int deletionIndex = (currentMarble - 7 + marbles.size()) % marbles.size();
             points += marbles[deletionIndex];
             marbles.erase(marbles.begin()+deletionIndex);
 
