@@ -3,7 +3,7 @@
 #include <string>
 #include "jefflib.h" 
 #include <map>
-#include <set>
+#include <cmath>
 
 using namespace std;
 
@@ -60,6 +60,7 @@ int playGame(int numPlayers, int numMarbles)
             
             // Score -7th & remove
             int deletionIndex = (currentMarble -7) % marbles.size();
+            deletionIndex = abs(deletionIndex);
             points += marbles[deletionIndex];
             marbles.erase(marbles.begin()+deletionIndex);
 
